@@ -1,0 +1,42 @@
+[
+    {
+      "key": "mission_history",
+      "name": "Lịch sử nhiệm vụ",
+      "describe": "Bảng quản lý lịch sử thực hiện nhiệm vụ"
+    },
+    {
+      "key": "call_boxes",
+      "name": "Quản lí bộ gọi",
+      "describe": "Bảng quản lý thông tin bộ gọi"
+    },
+    {
+      "key": "manager_warehouse",
+      "name": "Quản lý kho",
+      "describe": "Giao diện mô phỏng trạng thái tồn kho theo vị trí"
+    },
+    {
+      "key": "manager_warehouse/history_access",
+      "name": "Quản lý kho",
+      "describe": "Lịch sử cập nhật trạng thái tồn kho tại từng vị trí"
+    },
+    {
+      "key": "settings_system",
+      "name": "Cài đặt hệ thống",
+      "describe": "Cài đặt thông tin sản phẩm tại line sản xuất"
+    },
+    {
+      "key": "manage_account/list_account",
+      "name": "Quản lý tài khoản",
+      "describe": "Danh sách thông tin tài khoản "
+    },
+    {
+      "key": "manage_account/manager_role",
+      "name": "Quản lý tài khoản",
+      "describe": "Danh sách phân quyền tính năng theo từng chức vụ"
+    },
+    {
+      "key": "manage_account/history_access",
+      "name": "Quản lý tài khoản",
+      "describe": "Lịch sử truy cập hệ thống"
+    }
+]

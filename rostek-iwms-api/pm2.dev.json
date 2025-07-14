@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "iwms-api-3200",
+            "script": "npm",
+            "args": "run dev"
+        }
+    ]
+}

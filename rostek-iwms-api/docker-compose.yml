@@ -1,0 +1,17 @@
+version: '3.7'
+
+services:
+  mongodb-mes:
+    image: mongo:latest
+    container_name: mongodb_avn
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: rostek
+      MONGO_INITDB_ROOT_PASSWORD: rostekavn2019
+    ports:
+      - "28019:27017"
+    volumes:
+      - mongodb_mes_data:/data/db
+    command: mongod --auth
+
+volumes:
+  mongodb_mes_data:
